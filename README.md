@@ -1,4 +1,4 @@
-# Using transferlearning for medical image classification. Pros, cons and a discussion.
+# Using transfer learning for medical image classification. Pros, cons and a discussion.
 
 ## About the project
 This here is my project from my last course in Deep Learning (December 2023) in SoftUni.
