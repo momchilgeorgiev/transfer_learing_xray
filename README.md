@@ -9,7 +9,7 @@ The project aims and succeeds to create a DL model that classifies x-ray images 
 
 Grad-CAM and a segmentation algorithm (LIME) has been used for model explainability:
 
-**Repo structire:**
+**Repo structure:**
 - `/content`:
   - `/logs` - tf board log files for the training process of the models
   - `/models` - dir where you will put the trained models (more info in the main notebook)
