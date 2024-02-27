@@ -8,6 +8,8 @@ To test it download the repo and follow the step-by-step instruction in `/main/P
 The project aims and succeeds to create a DL model that classifies x-ray images of pneumonia patients. There is also a large part of analysis of the problem at hand, comparing different research in this topic and how such a model can be improved as to have better generalization and real world application.
 
 Grad-CAM and a segmentation algorithm (LIME) has been used for model explainability:
+![img1](https://i.imgur.com/BTBq5ER.png)
+![img2](https://i.imgur.com/T2VaCfN.png)
 
 **Repo structure:**
 - `/content`:
